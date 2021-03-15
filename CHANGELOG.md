@@ -2,6 +2,7 @@
 
 ### New
 - Added gitignore
+- Added colors, breakpoints, columns
 
 ### Fixed
 
